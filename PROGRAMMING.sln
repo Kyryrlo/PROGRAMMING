@@ -1,0 +1,152 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MANDATORY WORKS", "MANDATORY WORKS", "{3C3DB068-EC98-4327-B3E5-9984B46DE714}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SECONDARY WORKS", "SECONDARY WORKS", "{B070EACB-5427-4477-A9F0-677D55A815E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WORK ON LESSONS", "WORK ON LESSONS", "{1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "10 practical assignments on the topic Cycles", "10 practical assignments on the topic Cycles\10 practical assignments on the topic Cycles.pyproj", "{EB76A285-3413-4EFE-B025-DDCDD86D3B25}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "App Solving a quadratic equation", "App Solving a quadratic equation\App Solving a quadratic equation.pyproj", "{217129E0-BC89-470E-8BDD-3705C0A9ED95}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Assignments Conditional operator IF", "Assignments Conditional operator IF\Assignments Conditional operator IF.pyproj", "{82CFA70E-9D6C-465C-9B75-09F109A80D40}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Debug 2 work, Syracuse", "Debug 2 work, Syracuse\Debug 2 work, Syracuse.pyproj", "{53E7BBD2-8A72-41B5-B740-F306A7DD0C6C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework First programs print(), input(), arithmetic operations.py", "Homework First programs print(), input(), arithmetic operations.py\Homework First programs print(), input(), arithmetic operations.py.pyproj", "{DACEB10C-8857-4DE0-8DCA-50C5368C7302}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Independent work Diagnosis-1", "Independent work Diagnosis-1\Independent work Diagnosis-1.pyproj", "{C6136FEA-7047-4563-85D5-39E3254F2AD7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practical work Mathematics", "Practical work Mathematics\Practical work Mathematics.pyproj", "{4B472E1D-C8DE-4990-A287-0C69FA5DFD06}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practical work Palgad", "Practical work Palgad\Practical work Palgad.pyproj", "{0D070A3A-4C83-465F-926C-0280C620CD62}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice work DEF creation", "Practice work DEF creation\Practice work DEF creation.pyproj", "{E874EDA6-7BBE-4787-BB3C-D62FA2F495B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice work Dictionary", "Practice work Dictionary\Practice work Dictionary.pyproj", "{73CEFDFB-FA02-43B0-BB6F-FAC95D1C1441}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice work, body mass index", "Practice work, body mass index\Practice work, body mass index.pyproj", "{71A08D32-2809-40A7-9905-305B029A3516}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rock paper scissors", "Rock paper scissors\Rock paper scissors.pyproj", "{8356F9D8-179D-498E-97FD-5AF6A50B51A0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Task Using functions print(), input(), float(), int()", "Task Using functions print(), input(), float(), int()\Task Using functions print(), input(), float(), int().pyproj", "{1066B672-3561-456B-8519-BEB263B40C56}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Work with dictionaries Euroopa riigid", "Work with dictionaries Euroopa riigid\Work with dictionaries Euroopa riigid.pyproj", "{3AE1E120-FB93-4D19-8B4A-EB70E7E4F93F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practical independent work Wordle with graphic design", "Practical independent work Wordle with graphic design\Practical independent work Wordle with graphic design.pyproj", "{8136C5EC-C7B7-40C7-B3DD-9BCECB70C9B6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IF While For tasks and input data checking", "IF While For tasks and input data checking\IF While For tasks and input data checking.pyproj", "{3887AB09-3357-4F9A-AF12-8F7EB659537A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lists", "Lists\Lists.pyproj", "{2BBE3452-012E-42D4-8D8A-93995FF9A2F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practical work circle", "Practical work circle\Practical work circle.pyproj", "{68ECA6B5-69D0-4F34-A0A2-9CEC044F383F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Work on lesson 18.01.2024 work with txt files", "Work on lesson 18.01.2024 work with txt files\Work on lesson 18.01.2024 work with txt files.pyproj", "{F74D55B9-CEF4-4A26-B53D-7A9FDE8511E5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cycles of lesson work", "Cycles of lesson work\Cycles of lesson work.pyproj", "{19906A88-5341-4CDD-A170-07A8548DE5F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Work with files", "PythonApplication1\Work with files.pyproj", "{7F77C079-42DF-4572-A3F7-B43614506774}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lesson work def 21.12.23", "Lesson work def 21.12.23\Lesson work def 21.12.23.pyproj", "{904788CC-D2B0-4F22-A2E1-21D68040DDD9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Classwork 14.12.2023", "Classwork 14.12.2023\Classwork 14.12.2023.pyproj", "{7297F43C-308D-46BB-9BA9-71288159562A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Work sallary 11.01.2024", "Work sallary 11.01.2024.py\Work sallary 11.01.2024.pyproj", "{DEE80F41-8B46-49CA-9FBB-8651239F559B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Work with databases 29.02", "Work with databases 29.02\Work with databases 29.02.pyproj", "{A3342B2B-7F38-4BDD-B9E6-231E80AA1DB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB76A285-3413-4EFE-B025-DDCDD86D3B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB76A285-3413-4EFE-B025-DDCDD86D3B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217129E0-BC89-470E-8BDD-3705C0A9ED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217129E0-BC89-470E-8BDD-3705C0A9ED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CFA70E-9D6C-465C-9B75-09F109A80D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CFA70E-9D6C-465C-9B75-09F109A80D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E7BBD2-8A72-41B5-B740-F306A7DD0C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E7BBD2-8A72-41B5-B740-F306A7DD0C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACEB10C-8857-4DE0-8DCA-50C5368C7302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACEB10C-8857-4DE0-8DCA-50C5368C7302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6136FEA-7047-4563-85D5-39E3254F2AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6136FEA-7047-4563-85D5-39E3254F2AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B472E1D-C8DE-4990-A287-0C69FA5DFD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B472E1D-C8DE-4990-A287-0C69FA5DFD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D070A3A-4C83-465F-926C-0280C620CD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D070A3A-4C83-465F-926C-0280C620CD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E874EDA6-7BBE-4787-BB3C-D62FA2F495B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E874EDA6-7BBE-4787-BB3C-D62FA2F495B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CEFDFB-FA02-43B0-BB6F-FAC95D1C1441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CEFDFB-FA02-43B0-BB6F-FAC95D1C1441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A08D32-2809-40A7-9905-305B029A3516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A08D32-2809-40A7-9905-305B029A3516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8356F9D8-179D-498E-97FD-5AF6A50B51A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8356F9D8-179D-498E-97FD-5AF6A50B51A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1066B672-3561-456B-8519-BEB263B40C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1066B672-3561-456B-8519-BEB263B40C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE1E120-FB93-4D19-8B4A-EB70E7E4F93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE1E120-FB93-4D19-8B4A-EB70E7E4F93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8136C5EC-C7B7-40C7-B3DD-9BCECB70C9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8136C5EC-C7B7-40C7-B3DD-9BCECB70C9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3887AB09-3357-4F9A-AF12-8F7EB659537A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3887AB09-3357-4F9A-AF12-8F7EB659537A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBE3452-012E-42D4-8D8A-93995FF9A2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBE3452-012E-42D4-8D8A-93995FF9A2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ECA6B5-69D0-4F34-A0A2-9CEC044F383F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ECA6B5-69D0-4F34-A0A2-9CEC044F383F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74D55B9-CEF4-4A26-B53D-7A9FDE8511E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74D55B9-CEF4-4A26-B53D-7A9FDE8511E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19906A88-5341-4CDD-A170-07A8548DE5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19906A88-5341-4CDD-A170-07A8548DE5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F77C079-42DF-4572-A3F7-B43614506774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F77C079-42DF-4572-A3F7-B43614506774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904788CC-D2B0-4F22-A2E1-21D68040DDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904788CC-D2B0-4F22-A2E1-21D68040DDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7297F43C-308D-46BB-9BA9-71288159562A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7297F43C-308D-46BB-9BA9-71288159562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE80F41-8B46-49CA-9FBB-8651239F559B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE80F41-8B46-49CA-9FBB-8651239F559B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3342B2B-7F38-4BDD-B9E6-231E80AA1DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3342B2B-7F38-4BDD-B9E6-231E80AA1DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB76A285-3413-4EFE-B025-DDCDD86D3B25} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{217129E0-BC89-470E-8BDD-3705C0A9ED95} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{82CFA70E-9D6C-465C-9B75-09F109A80D40} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{53E7BBD2-8A72-41B5-B740-F306A7DD0C6C} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{DACEB10C-8857-4DE0-8DCA-50C5368C7302} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{C6136FEA-7047-4563-85D5-39E3254F2AD7} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{4B472E1D-C8DE-4990-A287-0C69FA5DFD06} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{0D070A3A-4C83-465F-926C-0280C620CD62} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{E874EDA6-7BBE-4787-BB3C-D62FA2F495B2} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{73CEFDFB-FA02-43B0-BB6F-FAC95D1C1441} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{71A08D32-2809-40A7-9905-305B029A3516} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{8356F9D8-179D-498E-97FD-5AF6A50B51A0} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{1066B672-3561-456B-8519-BEB263B40C56} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{3AE1E120-FB93-4D19-8B4A-EB70E7E4F93F} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{8136C5EC-C7B7-40C7-B3DD-9BCECB70C9B6} = {3C3DB068-EC98-4327-B3E5-9984B46DE714}
+		{3887AB09-3357-4F9A-AF12-8F7EB659537A} = {B070EACB-5427-4477-A9F0-677D55A815E0}
+		{2BBE3452-012E-42D4-8D8A-93995FF9A2F3} = {B070EACB-5427-4477-A9F0-677D55A815E0}
+		{68ECA6B5-69D0-4F34-A0A2-9CEC044F383F} = {B070EACB-5427-4477-A9F0-677D55A815E0}
+		{F74D55B9-CEF4-4A26-B53D-7A9FDE8511E5} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+		{19906A88-5341-4CDD-A170-07A8548DE5F3} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+		{7F77C079-42DF-4572-A3F7-B43614506774} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+		{904788CC-D2B0-4F22-A2E1-21D68040DDD9} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+		{7297F43C-308D-46BB-9BA9-71288159562A} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+		{DEE80F41-8B46-49CA-9FBB-8651239F559B} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+		{A3342B2B-7F38-4BDD-B9E6-231E80AA1DB8} = {1B54F9DA-C0E3-42F8-BB37-E4CF508C7E18}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF67541-8953-4F28-8609-F740B8927B0E}
+	EndGlobalSection
+EndGlobal
